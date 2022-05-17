@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="common_edit_text_textSize">16sp</dimen>
+    <dimen name="common_autocomplete_dropdown_textSize">14sp</dimen>
+
+</resources>
